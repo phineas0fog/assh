@@ -8,7 +8,7 @@ require (
 	github.com/bugsnag/osext v0.0.0-20130617224835-0dd3f918b21b
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/deckarep/gosx-notifier v0.0.0-20180201035817-e127226297fb // indirect
-	github.com/docker/docker v0.0.0-20170919203346-7cbbbb95097f // indirect
+	github.com/docker/docker v1.13.1 // indirect
 	github.com/docker/go-units v0.3.3
 	github.com/docker/libcompose v0.0.0-20170915135206-b2c0c6e70069
 	github.com/dustin/go-humanize v1.0.0
@@ -45,6 +45,6 @@ require (
 	golang.org/x/sys v0.0.0-20181128092732-4ed8d59d0b35 // indirect
 	golang.org/x/time v0.0.0-20181108054448-85acf8d2951c
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
-	gopkg.in/go-playground/validator.v8 v8.18.2 // indirect
+	gopkg.in/go-playground/validator.v9 v9.28.0 // indirect
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
